@@ -1,0 +1,92 @@
+h1
+{
+
+
+
+
+
+    color:purple;
+	font-size:2rem;
+	text-align:center;
+
+
+}
+
+#buttonperfil {
+
+	background-color: purple;
+	color:  white;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+}
+
+#buttonconfiguracoes {
+
+	background-color: transparent;
+	color:  purple;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+}
+
+#buttonprivacidade {
+
+	background-color: purple;
+	color:  white;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+}
+
+#buttonfalarcomagente {
+
+	background-color: transparent;
+	color:  purple;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+}
+
+#buttonsairdoapp {
+	background-color: purple;
+	color:  white;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+}
