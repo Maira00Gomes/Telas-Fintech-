@@ -1,0 +1,117 @@
+.content-header {
+	/* FINTECH */
+
+position: absolute;
+width: 166px;
+height: 28px;
+left: 19px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #542361;
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 360px;
+height: 336px;
+left: 0px;
+top: 0px;
+
+background: url(pexels-cottonbro-3943750.jpg);
+
+
+
+}
+
+h1
+{
+
+
+
+/* BEM VINDO NOVAMENTE! */
+
+    color:purple;
+	font-size:3rem;
+	text-align:center;
+
+
+
+}
+
+
+h3{
+
+
+
+	color:purple;
+	font-size:1rem;
+	text-align:center;
+}
+
+
+#buttongoogle{
+
+	background-color: purple;
+	color:  white;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+
+}
+
+#buttonemail{
+
+	background-color: purple;
+	color:  white;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+}
+
+
+
+
+#buttoncriarconta{
+
+	background-color: transparent;
+	color:  purple;
+	font-size: 1rem;
+	padding:  .375rem .75rem;
+	border:  1px solid transparent;
+	border-radius:  10px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	margin-top: 92px;
+
+}
+
+
+
+
+
+
+
